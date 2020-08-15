@@ -6,8 +6,8 @@
 
 
 // gold coordinates
-const WIDTH = 300;
-const HEIGH = 410;
+const WIDTH = 450;
+const HEIGH = 560;
 
 let target = {
   x: getRandomNumber(WIDTH),
